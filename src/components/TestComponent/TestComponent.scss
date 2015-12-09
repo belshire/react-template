@@ -1,0 +1,14 @@
+.component {
+  border: 5px solid #bada55;
+  text-align: center;
+}
+
+.component2 {
+  border: 5px solid red;
+  height: 25px;
+
+  .stupid {
+    border: 5px solid fuchsia;
+    height: 15px;
+  }
+}
